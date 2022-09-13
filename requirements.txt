@@ -1,0 +1,20 @@
+aniso8601 @ file:///home/conda/feedstock_root/build_artifacts/aniso8601_1618789466884/work
+click @ file:///D:/bld/click_1651215430313/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1655412516417/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1657844361786/work
+Flask-JWT==0.3.2
+Flask-RESTful @ file:///home/conda/feedstock_root/build_artifacts/flask-restful_1622406740831/work
+importlib-metadata==4.12.0
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
+JayDeBeApi @ file:///home/conda/feedstock_root/build_artifacts/jaydebeapi_1596572318840/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
+JPype1 @ file:///D:/bld/jpype1_1653686319085/work
+mailer @ file:///D:/bld/mailer_1610318521204/work
+MarkupSafe @ file:///D:/bld/markupsafe_1648737757460/work
+psycopg2 @ file:///D:/bld/psycopg2-split_1620868914798/work
+PyJWT==1.4.2
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1647961439546/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1648847766614/work
+zipp==3.8.1
